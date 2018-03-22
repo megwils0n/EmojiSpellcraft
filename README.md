@@ -1,0 +1,2 @@
+# EmojiSpellcraft
+Understanding Emoji Spells. 
